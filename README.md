@@ -2,6 +2,8 @@
 
 A minimalist, lightweight Chrome extension that automatically clears browsing history to protect privacy and save space.  
 
+🌐 [View Chinese version](https://github.com/EternalExp/chrome-auto-clear-history/blob/main/README_CN.md)
+
 ---
 
 ## ✨ Features
